@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravilesh Kashyap
 
-Welcome to my GitHub! I'm a **passionate and versatile developer** with a love for building efficient, scalable, and beautiful digital experiences. Whether it's mobile, web, or backend – I enjoy solving real-world problems through code.
+Welcome to my GitHub! I'm a Full Stack Developer passionate about building scalable mobile apps and crafting efficient, elegant, and impactful digital experiences. Whether it's mobile, web, or backend – I enjoy solving real-world problems through clean and thoughtful code.
 
 ---
 
@@ -57,19 +57,19 @@ An end-to-end shopping experience built using ReactJS, NodeJS, MySQL, and Stripe
 
 ## 🏆 Achievements
 
-🥈 Secured **2nd place** in solo dance at *Zest 2018*
-🧘 Represented school at **national level** in *Yoga*
-💃 Represented college at **regional level** in *Dance*
+* 🥈 Secured **2nd place** in solo dance at *Zest 2018*
+* 🧘 Represented school at **national level** in *Yoga*
+* 💃 Represented college at **regional level** in *Dance*
 
 ---
 
 ## 🌱 Currently Learning
 
-
-🌐 Full Stack Development
-📱 Android Development with Kotlin & React Native
-🧠 System Optimization & Performance
-🔢 Data Structures & Algorithms (Java)
+* 🚀 iOS Development (Swift, Xcode)
+* 🌐 Full Stack Development
+* 📱 Android Development with Kotlin & React Native
+* 🧠 System Optimization & Performance
+* 🔢 Data Structures & Algorithms (Java)
 
 ---
 
