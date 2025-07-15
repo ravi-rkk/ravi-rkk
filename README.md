@@ -65,7 +65,6 @@ An end-to-end shopping experience built using ReactJS, NodeJS, MySQL, and Stripe
 
 ## 🌱 Currently Learning
 
-* 🚀 iOS Development (Swift, Xcode)
 * 🌐 Full Stack Development
 * 📱 Android Development with Kotlin & React Native
 * 🧠 System Optimization & Performance
